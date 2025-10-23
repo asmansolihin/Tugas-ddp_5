@@ -1,0 +1,7 @@
+kendaraan = ["vario", "matic", "125", "hitam", "2"]
+
+kendaraan.extend(["20juta", "matic"])
+
+kendaraan.insert(2, "vario")
+
+print("kendaraan")
